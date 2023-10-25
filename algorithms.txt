@@ -1,0 +1,49 @@
+1.Addition of three Numbers:
+Start
+input numbers 1,2,3
+sum = 1+2+3
+print sum = 6
+stop
+
+2.Average and percentage
+Start
+give subject marks sub1:72; sub2:85; sub3:91; sub4:82; sub5:82
+percentage of student: (totalmarks/total no of sub) *100 (412/500)*100
+output percentage = 82
+stop
+
+3.Simple interest
+start
+give input principalamount=Rs3000; timeperiod=5months; rate of interest=2%
+output simpleinterest = Rs300
+stop
+
+4.Even or Odd
+Start
+input number 33
+if number %2=0
+if yes print even
+if not print odd
+stop
+
+5.Celsius to Farenheit conversion
+Start
+input value 40C
+F=(9*C/5)+32 (9*40/5)+32
+output F=104F
+Stop
+
+6.Leap year
+Start
+give year 2022
+leapyear=%4; 2022/4
+if yes print 2022 is leapyear
+if not print 2022 is not leap year
+stop
+
+7.print numbers 1 to 10
+Start
+input number 10
+loop (i=1;i<=10;++i)
+print 1-10 in loop
+stop
