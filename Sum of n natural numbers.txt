@@ -1,0 +1,6 @@
+Sum of n natural numbers
+Start
+input numbers n=10,i=1 sum=0
+loop(i=1;i<=n;i++)
+print sum=55
+stop

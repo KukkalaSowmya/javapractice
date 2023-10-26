@@ -1,0 +1,7 @@
+prime number
+start
+take n=5,i=1
+if 5<=1 print 5 is not prime number
+else i<[(n/2)+1] print 5 is a prime number
+i=i+1
+stop
