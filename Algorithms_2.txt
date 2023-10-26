@@ -1,0 +1,33 @@
+Algorithms
+
+area and perimetr of square
+start
+take side of square=5
+calculate area=s*s; perimeter=4s
+print area=25; perimeter=20
+stop
+
+Area and perimeter of rectagle
+start
+take length=20; breadth=12
+calculate area=l*b; perimeter=2*(l+b)
+print area=240; perimeter=64
+stop
+
+area and perimeter of circle
+start
+take radius=5; pi=3.14
+calculate area=pi*r; perimeter=2*pi*r
+print area=15.4; perimeter=31.4
+stop
+
+prime number or not
+Start
+take number7 i=1
+check 5<=1
+if condition is true print 7 is prime number
+if condition is false print 7 is not prime
+stop
+
+
+
