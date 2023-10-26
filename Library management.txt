@@ -1,0 +1,10 @@
+Library management
+Start
+if it is student
+login into your account
+if you are new user click register to the account
+click on my account
+search for required book
+issue book report to admin
+get the book
+stop
