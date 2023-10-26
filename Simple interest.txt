@@ -1,0 +1,8 @@
+Simple interest
+start
+read principleamount=3000,timeperiod=3months,rateofinterest=3%
+calculate simple interest(p*t*r/100=3000*3*3/100)
+print simpleinterest=270
+stop
+
+

@@ -1,0 +1,6 @@
+Celsius to Fahrenheit Conversion
+Start
+take input temperature=50C
+F=(9*c/5)+32; (9*50/5)+32
+print F=122
+stop

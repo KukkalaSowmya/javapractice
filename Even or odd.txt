@@ -1,0 +1,8 @@
+Even or odd
+Start
+input number 42
+if num=%2
+if 42 is even 
+print even
+stop
+

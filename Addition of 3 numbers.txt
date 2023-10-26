@@ -1,0 +1,7 @@
+Addition of 3 numbers
+Start
+input numbers 3,4,5
+sum = 3+4+5
+print sum = 12
+Stop
+

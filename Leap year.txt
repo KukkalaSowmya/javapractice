@@ -1,0 +1,66 @@
+Leap year
+Start
+take input year=2002
+if year=%4
+if 2002 is leap year
+print 2002 is leap year
+if 2002 is not leap year 
+print 2002 is not leap year
+stop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+Average and percentage
+Start
+input marks sub1=73,sub2=82,sub3=70,sub4=80,sub5=91
+Average of marks = total marks in all subjects/total no of sub; (396/500)
+percentage of marks = average*100
+print average=396, percentage=79
+stop
+
+
+
+
+
