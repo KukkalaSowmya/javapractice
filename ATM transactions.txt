@@ -1,0 +1,10 @@
+ATM transactions
+Start
+Insert an ATM card
+select your language
+select withdraw money
+select savings
+enter correct pin
+enter required amount
+collect your cash
+Stop
